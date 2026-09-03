@@ -1,0 +1,4 @@
+interface:
+  display_name: "豆尼全生命周期数据中枢"
+  short_description: "统一查询达人全生命周期主表、核验业务口径并阻断脏数据写入"
+  default_prompt: "Use $douni-lifecycle-data-hub to query and verify creator lifecycle data from the unified Base."
